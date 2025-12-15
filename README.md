@@ -50,25 +50,9 @@ LVDT was studied well and graph of displacement was linear for a particular rang
 
 
 
-...
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ...
-
-
-
 
 
 
@@ -103,7 +87,32 @@ LVDT was studied well and graph of displacement was linear for a particular rang
 
 
 
+
+
+
 ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
 
 
 
@@ -139,4 +148,18 @@ LVDT was studied well and graph of displacement was linear for a particular rang
 
 
 
+
+
+
 ...
+
+
+
+
+
+
+
+
+
+
+....
